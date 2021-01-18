@@ -1,4 +1,4 @@
-# SQL task for Yandex Contest sample
+# Yandex Contest SQL task sample
 
 based on [repository](https://github.com/atolstikov/yacontest-cheatsheet/tree/master/db-sqlite) by [@atolstikov](https://t.me/atolstikov)
 
